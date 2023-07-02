@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Muneeb</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-muneeb&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-muneeb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohd-muneeb" alt="mohd-muneeb" /></a> </p>
-
 - 🔭 I’m currently working on [Adopticity](https://www.github.com/Mohd-Muneeb/Adopticity/)
 
 - 🌱 I’m currently learning **NextJS, SQL, Redux**
