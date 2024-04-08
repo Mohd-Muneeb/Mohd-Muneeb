@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Adopticity](https://www.github.com/Mohd-Muneeb/Adopticity/)
 
-- 🌱 I’m currently learning **NextJS, SQL, Redux**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 👯 I’m looking to collaborate on [Brave Browser](https://github.com/brave/brave-browser)
 
 - 🤝 I’m looking for help with [ReactJS](https://reactjs.org/)
 
-- 👨‍💻 All of my projects are available at [https://www.mohdmuneeb.live](https://www.mohdmuneeb.live)
+- 👨‍💻 All of my projects are available at [https://www.mohdmuneeb.tech](https://www.mohdmuneeb.tech)
 
 - 📝 I regularly write articles on [dev.to/mohdmuneeb](dev.to/mohdmuneeb)
 
@@ -17,6 +17,6 @@
 
 - 📫 How to reach me **mohdmuneeb1307@gmail.com**
 
-- 📄 Know about my experiences on my [portfolio](https://www.mohdmuneeb.live)
+- 📄 Know about my experiences on my [portfolio](https://www.mohdmuneeb.tech)
 
 - ⚡ Fun fact **I main Revenant in Apex Legends. Quick fact about me!**
