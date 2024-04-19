@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.mohdmuneeb.tech](https://www.mohdmuneeb.tech)
 
-- 📝 I regularly write articles on [dev.to/mohdmuneeb](dev.to/mohdmuneeb)
-
 - 💬 Ask me about **React, Typescript, NoSQL databases and NodeJS**
 
 - 📫 How to reach me **mohdmuneeb1307@gmail.com**
