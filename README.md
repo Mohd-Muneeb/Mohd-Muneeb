@@ -3,16 +3,14 @@
 
 - 🔭 I’m currently working at [Triomics (YC W21)](https://www.triomics.com)
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning about Agents and servers
 
-- 🤝 I’m looking for help with [Ruby on Rails](https://rubyonrails.org/)
-
-- 👨‍💻 All of my projects are available at [https://www.mohdmuneeb.tech](https://www.mohdmuneeb.tech)
+- 👨‍💻 All of my projects are available at [https://www.mohdmuneeb.tech](https://www.muneeb.work)
 
 - 💬 Ask me about **React, Typescript, NoSQL databases and NodeJS**
 
 - 📫 How to reach me **mohdmuneeb1307@gmail.com**
 
-- 📄 Know about my experiences on my [portfolio(WIP)](https://www.mohdmuneeb.tech)
+- 📄 Know about my experiences on my [portfolio(WIP)](https://www.muneeb.work)
 
 - ⚡ Fun fact **I main Revenant in Apex Legends. Quick fact about me!**
