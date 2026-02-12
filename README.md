@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Muneeb</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working at [Meeku LLC](https://meeku.world)
+- 🔭 I’m currently working at [Triomics (YC W21)](https://www.triomics.com)
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
